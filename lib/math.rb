@@ -26,7 +26,7 @@ end
 puts multiplication(4, 30)
 
 def modulo(num1, num2)
-  num1 % num2 = modu  
+  num1 % num2  
 end
 
 puts modulo(34, 5)
